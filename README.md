@@ -1,6 +1,6 @@
 # Clustering
 
-課程: 資料探勘導論 \n
+課程: 資料探勘導論 
 作品名稱: Clustering分析
 作品簡介: 收集 github用戶使用的程式語言，以R語言進行clustering分析。
 
